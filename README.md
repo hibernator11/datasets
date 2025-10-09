@@ -30,19 +30,19 @@ A collection of GLAM datasets for reuse.
 ## DCAT examples
 This is a list of datasets described using DCAT as a main vocabulary (https://github.com/hibernator11/dcat-glam-catalog):
 
-- [British Library - Free dataset downloads (Alexander the Great and Shakespeare)](https://github.com/hibernator11/dcat-glam-catalog/datasets/bl.ttl)
-- [Digital Library of the Caribbean - Panama American - Aruba Esso News](https://github.com/hibernator11/dcat-glam-catalog/datasets/caribbean.ttl)
-- [Europeana - Downloads (Theater Posters and National Heritage Institute Bucharest)](https://github.com/hibernator11/dcat-glam-catalog/datasets/europeana.ttl)
-- [Harvard Art Museums API](https://github.com/hibernator11/dcat-glam-catalog/datasets/harvard.ttl)
-- [Library of Congress - Chronicling America](https://github.com/hibernator11/dcat-glam-catalog/datasets/lc.ttl)
-- [Metropolitan Museum of Art - Collection API](https://github.com/hibernator11/dcat-glam-catalog/datasets/moma.ttl)
-- [National Library of France - Mandragore](https://github.com/hibernator11/dcat-glam-catalog/datasets/bnf.ttl)
-- [National Library of Luxembourg - Historical Newspapers](https://github.com/hibernator11/dcat-glam-catalog/datasets/bnl.ttl)
-- [National Library of Scotland - Moving Image Archive - A Medical History of British India](https://github.com/hibernator11/dcat-glam-catalog/datasets/data-foundry-nls.ttl)
-- [National Library of the Netherlands - Dutch Novels 1800-2000](https://github.com/hibernator11/dcat-glam-catalog/datasets/kb.ttl)
-- [Rijksmuseum - Actors - Thesauri](https://github.com/hibernator11/dcat-glam-catalog/datasets/rijksmuseum.ttl)
-- [South Australian Museum - Minerals Collection](https://github.com/hibernator11/dcat-glam-catalog/datasets/sam.ttl)
-- [Zeri Photo Archive - Zeri&LOD](https://github.com/hibernator11/dcat-glam-catalog/datasets/zeri.ttl)
+- [British Library - Free dataset downloads (Alexander the Great and Shakespeare)](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/bl.ttl)
+- [Digital Library of the Caribbean - Panama American - Aruba Esso News](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/caribbean.ttl)
+- [Europeana - Downloads (Theater Posters and National Heritage Institute Bucharest)](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/europeana.ttl)
+- [Harvard Art Museums API](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/harvard.ttl)
+- [Library of Congress - Chronicling America](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/lc.ttl)
+- [Metropolitan Museum of Art - Collection API](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/moma.ttl)
+- [National Library of France - Mandragore](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/bnf.ttl)
+- [National Library of Luxembourg - Historical Newspapers](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/bnl.ttl)
+- [National Library of Scotland - Moving Image Archive - A Medical History of British India](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/data-foundry-nls.ttl)
+- [National Library of the Netherlands - Dutch Novels 1800-2000](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/kb.ttl)
+- [Rijksmuseum - Actors - Thesauri](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/rijksmuseum.ttl)
+- [South Australian Museum - Minerals Collection](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/sam.ttl)
+- [Zeri Photo Archive - Zeri&LOD](https://github.com/hibernator11/dcat-glam-catalog/blob/main/datasets/zeri.ttl)
 
 ## References
 
