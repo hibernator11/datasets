@@ -28,6 +28,7 @@ A collection of GLAM datasets for reuse.
 - Museo del Prado & Knowledge Graph - https://www.museodelprado.es/en/grafo-de-conocimiento/el-grafo-de-conocimiento-del-museo-del-prado - KG describing the records
 
 ## DCAT examples
+This is a list of datasets described using DCAT as a main vocabulary (https://github.com/hibernator11/dcat-glam-catalog):
 
 - [British Library - Free dataset downloads (Alexander the Great and Shakespeare)](https://github.com/hibernator11/dcat-glam-catalog/datasets/bl.ttl)
 - [Digital Library of the Caribbean - Panama American - Aruba Esso News](https://github.com/hibernator11/dcat-glam-catalog/datasets/caribbean.ttl)
