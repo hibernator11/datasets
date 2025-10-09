@@ -2,8 +2,6 @@
 A collection of GLAM datasets for reuse.
 
 ## Newspapers and digitised materials
-- National Library of Australia - Trove - https://trove.nla.gov.au - Historical newspapers
-- National Library of Israel - The National Library Newspaper Collection - https://www.nli.org.il/en/discover/newspapers - Historical newspapers
 - National Library of Luxembourg - Historical newspapers - https://data.bnl.lu/data/historical-newspapers/ - Historical newspapers 
 - National Library of Scotland - Data Foundry - https://data.nls.uk/data/digitised-collections/ - Digitised collections
 - National Library of Slovenia - The 1774-1947 Catalog - https://listkovni-katalog.nuk.uni-lj.si/moka/ - Historical newspapers and books
@@ -14,6 +12,8 @@ A collection of GLAM datasets for reuse.
 - Digital Library of the Caribbean - Caribbean Newspapers https://dlocasdata.domains.uflib.ufl.edu/ Historical newspapers
 - EU consortium & Impact dataset - https://www.digitisation.eu/impact-dataset/ - Newspapers and books including OCR and ground truth
 - EU consortium & NewsEye - https://www.newseye.eu - Historical newspapers
+- National Library of Australia - Trove - https://trove.nla.gov.au - Historical newspapers
+- National Library of Israel - The National Library Newspaper Collection - https://www.nli.org.il/en/discover/newspapers - Historical newspapers
 - Europeana & Europeana newspapers - https://pro.europeana.eu/project/europeana-newspapers - Historical newspapers
 - German National Library & DnbLab - https://data.dnb.de/Aufbau_OtraAlemania/ - 80,500 articles from the periodicals “Das Andere Deutschland / La Otra Alemania"
 - Library of Congress & Chronicling America - https://chroniclingamerica.loc.gov - Historical newspapers
