@@ -27,3 +27,6 @@ A collection of GLAM datasets for reuse.
 - Joconde & Ministère de la Culture - https://data.culture.gouv.fr/explore/dataset/base-joconde-extrait - 700,000 records from museums in France
 - Museo del Prado & Knowledge Graph - https://www.museodelprado.es/en/grafo-de-conocimiento/el-grafo-de-conocimiento-del-museo-del-prado - KG describing the records
 
+## References
+
+Alkemade, H., Candela, G., Claeyssens, S., Colavizza, G., Eren, S., Freire, N., Irollo, A., Isaac, A., Lehmann, J., Neudecker, C., Osti, G., van Strien, D., & Wevers, M. (2025). Datasheets for Digital Cultural Heritage Datasets (Versión 2). Zenodo. https://doi.org/10.5281/zenodo.15828222
