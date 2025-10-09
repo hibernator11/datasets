@@ -8,8 +8,8 @@ A collection of GLAM datasets for reuse.
 - National Library of Scotland - Data Foundry - https://data.nls.uk/data/digitised-collections/ - Digitised collections
 - National Library of Slovenia - The 1774-1947 Catalog - https://listkovni-katalog.nuk.uni-lj.si/moka/ - Historical newspapers and books
 - National Library of Spain - Digital Periodical and Newspaper Library - https://bnelab.bne.es/dato/hemeroteca/ - Newspapers and periodicals
-- Royal Danish Library - https://www.belgicapress.be - Historical newspapers
-- Royal Library of Belgium & Newspapers API - https://labs.statsbiblioteket.dk/labsapi/api/api-docs?url=/labsapi/api/openapi.yaml - Historical newspapers
+- Royal Danish Library - https://labs.statsbiblioteket.dk/labsapi/api/api-docs?url=/labsapi/api/openapi.yaml - Historical newspapers
+- Royal Library of Belgium & Newspapers API - https://www.belgicapress.be - Historical newspapers
 - University of Arizona Libraries & Newspapers as Data - https://libguides.library.arizona.edu/newspapers-as-data - Historical newspapers
 - Digital Library of the Caribbean - Caribbean Newspapers https://dlocasdata.domains.uflib.ufl.edu/ Historical newspapers
 - EU consortium & Impact dataset - https://www.digitisation.eu/impact-dataset/ - Newspapers and books including OCR and ground truth
