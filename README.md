@@ -1,7 +1,7 @@
 # GLAM datasets
 A collection of GLAM datasets for reuse.
 
-## Newspapers and digitised materials
+## Historical newspapers and digitised materials
 - National Library of Luxembourg - Historical newspapers - https://data.bnl.lu/data/historical-newspapers/ - Historical newspapers 
 - National Library of Scotland - Data Foundry - https://data.nls.uk/data/digitised-collections/ - Digitised collections
 - National Library of Slovenia - The 1774-1947 Catalog - https://listkovni-katalog.nuk.uni-lj.si/moka/ - Historical newspapers and books
