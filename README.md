@@ -19,7 +19,7 @@ A collection of GLAM datasets for reuse.
 - Library of Congress & Chronicling America - https://chroniclingamerica.loc.gov - Historical newspapers
  
 ## General
-- Linked Data Finland & World War I as LOD - https://www.ldf.fi/dataset/ww1lod-  World War I metadata
+- Linked Data Finland & World War I as LOD - https://www.ldf.fi/dataset/ww1lod - World War I 
  
 ## Museums
 - https://www.nga.gov/artworks/free-images-and-open-access
