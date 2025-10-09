@@ -27,6 +27,22 @@ A collection of GLAM datasets for reuse.
 - Joconde & Ministère de la Culture - https://data.culture.gouv.fr/explore/dataset/base-joconde-extrait - 700,000 records from museums in France
 - Museo del Prado & Knowledge Graph - https://www.museodelprado.es/en/grafo-de-conocimiento/el-grafo-de-conocimiento-del-museo-del-prado - KG describing the records
 
+## DCAT examples
+
+- [British Library - Free dataset downloads (Alexander the Great and Shakespeare)](https://github.com/hibernator11/dcat-glam-catalog/datasets/bl.ttl)
+- [Digital Library of the Caribbean - Panama American - Aruba Esso News](https://github.com/hibernator11/dcat-glam-catalog/datasets/caribbean.ttl)
+- [Europeana - Downloads (Theater Posters and National Heritage Institute Bucharest)](https://github.com/hibernator11/dcat-glam-catalog/datasets/europeana.ttl)
+- [Harvard Art Museums API](https://github.com/hibernator11/dcat-glam-catalog/datasets/harvard.ttl)
+- [Library of Congress - Chronicling America](https://github.com/hibernator11/dcat-glam-catalog/datasets/lc.ttl)
+- [Metropolitan Museum of Art - Collection API](https://github.com/hibernator11/dcat-glam-catalog/datasets/moma.ttl)
+- [National Library of France - Mandragore](https://github.com/hibernator11/dcat-glam-catalog/datasets/bnf.ttl)
+- [National Library of Luxembourg - Historical Newspapers](https://github.com/hibernator11/dcat-glam-catalog/datasets/bnl.ttl)
+- [National Library of Scotland - Moving Image Archive - A Medical History of British India](https://github.com/hibernator11/dcat-glam-catalog/datasets/data-foundry-nls.ttl)
+- [National Library of the Netherlands - Dutch Novels 1800-2000](https://github.com/hibernator11/dcat-glam-catalog/datasets/kb.ttl)
+- [Rijksmuseum - Actors - Thesauri](https://github.com/hibernator11/dcat-glam-catalog/datasets/rijksmuseum.ttl)
+- [South Australian Museum - Minerals Collection](https://github.com/hibernator11/dcat-glam-catalog/datasets/sam.ttl)
+- [Zeri Photo Archive - Zeri&LOD](https://github.com/hibernator11/dcat-glam-catalog/datasets/zeri.ttl)
+
 ## References
 
 Alkemade, H., Candela, G., Claeyssens, S., Colavizza, G., Eren, S., Freire, N., Irollo, A., Isaac, A., Lehmann, J., Neudecker, C., Osti, G., van Strien, D., & Wevers, M. (2025). Datasheets for Digital Cultural Heritage Datasets (Versión 2). Zenodo. https://doi.org/10.5281/zenodo.15828222
