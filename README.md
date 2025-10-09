@@ -1,5 +1,5 @@
-# datasets
-glam datasets
+# GLAM datasets
+A collection of GLAM datasets for reuse.
 
 ## Newspapers and digitised materials
 - National Library of Australia - Trove - https://trove.nla.gov.au - Historical newspapers
